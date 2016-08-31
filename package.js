@@ -1,7 +1,8 @@
 Package.describe({
-  name: "worklist",
+  name: "lancelotsmith:worklist",
   summary: "Basic worklist for web-based DICOM viewers",
-  version: '0.0.1'
+  version: '0.0.1',
+  git:"https://github.com/lancelotsmith/worklist.git"
 });
 
 Package.onUse(function (api) {
